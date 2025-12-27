@@ -4,7 +4,7 @@
     "email": "sahajguptarocks@gamil.com",
     "phone": "",
     "website": "https://phenomsg.github.io",
-    "summary": "Currently Intern at Red Brick University. Short biography for the left-hand sidebar",
+    "summary": "Currently Intern at Nokia. Short biography for the left-hand sidebar",
     "location": {
       "address": "",
       "postalCode": "",
@@ -15,13 +15,13 @@
     "profiles": [
       {
         "network": "Google Scholar",
-        "username": "",
+        "username": "Sahaj Gupta",
         "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
       },
       {
         "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "username": "Sahaj Gupta",
+        "url": "https://orcid.org/0009-0008-6994-0160"
       },
       {
         "network": "GitHub",
@@ -33,65 +33,26 @@
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Dayananda Sagar College of Engineering",
+      "area": "B.E in Information Science and Engineering",
       "studyType": "",
       "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
+      "endDate": "2026",
+      "gpa": 9,
       "courses": []
     }
   ],
   "skills": [],
-  "languages": [],
-  "interests": [],
+  "languages": ["English", "Hindi"],
+  "interests": ["Human-Computer Interaction", "Artificial Intelligence", "Machine Learning"],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
+      "name": "Application of MQTT Protocol to Visualize the Behavior of Autonomous Vehicle in a Virtual Environment",
+      "publisher": "IEEE",
+      "releaseDate": "2025-12-23",
       "website": "https://phenomsg.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://phenomsg.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://phenomsg.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://phenomsg.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "summary": "This paper presents MQTT-based virtual autonomous vehicle visualization and fleet monitoring system; AI-driven routing, security, and real-world deployment remain future work."
     }
   ],
   "presentations": [
@@ -121,22 +82,6 @@
       "event": "Testing Institute of America 2014 Annual Conference",
       "date": "2014-03-01",
       "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
       "description": ""
     }
   ],
