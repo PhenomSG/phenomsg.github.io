@@ -17,5 +17,5 @@ I implemented an end-to-end fine-tuning pipeline that includes dataset preparati
 
 **Tech stack:** Python, PyTorch, Hugging Face Transformers, PEFT, Datasets, Jupyter Notebook.
 
-**Repository:** [GitHub - fine-tune-me-baby](https://github.com/PhenomSG/fine-tune-me-baby)
+**Repository:** [GitHub - fine-tune-llm](https://github.com/PhenomSG/fine-tune-me-baby)
 
