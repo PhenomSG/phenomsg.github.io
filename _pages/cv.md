@@ -11,26 +11,29 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.E. in Dayananda Sagar Cllege of Engineering, 2026
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* October 2025 - Present: Student Intern
+  * Nokia
+  * Bangalore, India
+  * Part of the Central AI team, working on Agentic AI, LangChain Framework, and Generative AI to build scalable AI-driven products for Nokia.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* April 2025 - September 2025: Project Intern
+  * Nokia
+  * Bangalore, India
+  * Developed Industrial OT Text Dataset for LLM Fine-tuning of industrial documents, product guides, service manuals.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* July 2025: Machine Learning Intern
+  * Caprae Capital Partners
+  * California, United States of America
+  * Automated financial analysis and lead generation by extracting client P&L data and integrating sentiment-scored news to surface and prioritize high-value clients.
+
+* June 2025 - July 2015: Artificial Intelligence Intern
+  * Zeek
+  * Dubai, Unted Arab Emirates
+  * Built a fully functional AI system that discovers opportunities, generates campaigns, predicts ROI, executes campaigns, measures results, and learns from feedback.
   
 Skills
 ======
