@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download CV (Google Drive)](https://drive.google.com/drive/u/1/folders/1mdV1wVu-px1EqNXy7Go2twFMuLg6FgSz)
+
 Education
 ======
 * **B.E. in Information Science and Engineering**, Dayananda Sagar College of Engineering (DSCE), Bangalore  
@@ -23,7 +25,7 @@ Work experience
   * Building scalable AI-driven products for telecom and enterprise use cases.
 
 * **April 2025 - September 2025: Project Intern**  
-  **Nokia**, Remote  
+  **Nokia**, Bangalore, India  
   * Developed an **Industrial OT Text Dataset** for LLM fine-tuning.  
   * Curated documents including product guides, service manuals, and standards across networks, manufacturing, logistics, and mining domains.
 
@@ -45,7 +47,6 @@ Skills
 * **Data Science:** Pandas, NumPy, Matplotlib, Data Analysis  
 * **Generative AI:** Stable Diffusion, GenAI APIs  
 * **Competitive Programming:** LeetCode (Guardian – 2189), Codeforces (Expert – 1710)  
-* **Tools & Platforms:** Kaggle (3× Expert), Linux
 
 Projects
 ======
@@ -71,8 +72,8 @@ Achievements
 ======
 * LeetCode Rating: **2189** (Guardian)  
 * Codeforces Rating: **1710** (Expert)  
-* Kaggle: **3× Expert** (Notebooks, Datasets, Discussions)  
-* GATE 2025: **AIR 18,757** / 170k (Score: 368)
+* Kaggle: **Expert** (Notebooks, Datasets, Discussions)  
+* GATE 2025: **AIR 18,757** 
 
 Service and leadership
 ======
