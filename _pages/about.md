@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate student pursuing a B.E. in Information Science and Engineering at Dayananda Sagar College of Engineering, Bangalore, with a strong academic record (CGPA: 9.0). My primary interests lie in Artificial Intelligence, Machine Learning, Natural Language Processing, and Generative AI, with a growing focus on LLM systems and agentic architectures.
+I am an undergraduate student pursuing a B.E. in Information Science and Engineering at Dayananda Sagar College of Engineering, Bangalore, (CGPA: 9.0). My primary interests lie in Artificial Intelligence, Machine Learning, Natural Language Processing, and Generative AI, with a growing focus on LLM systems and agentic architectures.
 
-I qualified GATE 2025 (AIR 18,757), an experience that further motivated me to pursue graduate studies (M.S./M.Tech.) and strengthen my understanding of core computer science and AI foundations. In parallel, I remain actively engaged with structured problem-solving and applied data science through platforms such as LeetCode and Kaggle, which help me refine my algorithmic reasoning and experimental approach to real-world data problems.
+I qualified GATE 2025, an experience that further motivated me to pursue graduate studies (M.S./M.Tech.) and strengthen my understanding of core computer science and AI foundations. 
 
 Research Interests
 ======
