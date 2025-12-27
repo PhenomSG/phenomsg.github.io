@@ -1,22 +1,12 @@
 var addressPoints = [
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
+    "Application of MQTT Protocol to Visualize the Behavior of Autonomous Vehicle in a Virtual Environment<br />Fourth International Conference on Networking, Communication and Computing Technology (NCCT 2025); Bangalore, India",
+    12.9767936,
+    77.590082
   ],
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.5074456,
-    -0.1277653
-  ],
-  [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
-  ],
-  [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7879363,
-    -122.4075201
+    "Application of MQTT Protocol to Visualize the Behavior of Autonomous Vehicle in a Virtual Environment<br />7th International Conference on Innovative Data Communication Technologies and Application (ICIDCA 2025); Coimbatore, India",
+    11.0018115,
+    76.9628425
   ]
 ];
