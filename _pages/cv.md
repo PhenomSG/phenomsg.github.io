@@ -11,57 +11,70 @@ redirect_from:
 
 Education
 ======
-* B.E. in Dayananda Sagar Cllege of Engineering, 2026
+* **B.E. in Information Science and Engineering**, Dayananda Sagar College of Engineering (DSCE), Bangalore  
+  *2022 – 2026*  
+  CGPA: **9.0**
 
 Work experience
 ======
-* October 2025 - Present: Student Intern
-  * Nokia
-  * Bangalore, India
-  * Part of the Central AI team, working on Agentic AI, LangChain Framework, and Generative AI to build scalable AI-driven products for Nokia.
+* **October 2025 - Present: Student Intern**  
+  **Nokia**, Bangalore, India  
+  * Part of the Central AI team working on **Agentic AI**, **LangChain Framework**, and **Generative AI**.  
+  * Building scalable AI-driven products for telecom and enterprise use cases.
 
-* April 2025 - September 2025: Project Intern
-  * Nokia
-  * Bangalore, India
-  * Developed Industrial OT Text Dataset for LLM Fine-tuning of industrial documents, product guides, service manuals.
+* **April 2025 - September 2025: Project Intern**  
+  **Nokia**, Remote  
+  * Developed an **Industrial OT Text Dataset** for LLM fine-tuning.  
+  * Curated documents including product guides, service manuals, and standards across networks, manufacturing, logistics, and mining domains.
 
-* July 2025: Machine Learning Intern
-  * Caprae Capital Partners
-  * California, United States of America
-  * Automated financial analysis and lead generation by extracting client P&L data and integrating sentiment-scored news to surface and prioritize high-value clients.
+* **July 2025: Machine Learning Intern**  
+  **Caprae Capital Partners**, Glendale, California, USA  
+  * Automated financial analysis and lead generation.  
+  * Extracted client P&L data and integrated sentiment-scored news to surface and prioritize high-value clients.
 
-* June 2025 - July 2015: Artificial Intelligence Intern
-  * Zeek
-  * Dubai, Unted Arab Emirates
-  * Built a fully functional AI system that discovers opportunities, generates campaigns, predicts ROI, executes campaigns, measures results, and learns from feedback.
-  
+* **June 2025 - July 2025: Artificial Intelligence Intern**  
+  **ZEEK**, Dubai, United Arab Emirates  
+  * Built an end-to-end AI system to discover opportunities, generate campaigns, predict ROI, execute campaigns, measure results, and learn from feedback.
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Programming:** Python, SQL, Git  
+* **Machine Learning & AI:** Supervised Learning, Deep Learning, CNNs, Keras, Scikit-learn  
+* **NLP & LLMs:** LangChain, Prompt Engineering, Sentiment Analysis, LLM Fine-tuning  
+* **Computer Vision:** OpenCV, Image Classification  
+* **Data Science:** Pandas, NumPy, Matplotlib, Data Analysis  
+* **Generative AI:** Stable Diffusion, GenAI APIs  
+* **Competitive Programming:** LeetCode (Guardian – 2189), Codeforces (Expert – 1710)  
+* **Tools & Platforms:** Kaggle (3× Expert), Linux
+
+Projects
+======
+* **Game Automata** (May 2024 – Present)  
+  Automated gameplay client for CPU benchmarking using games like Team Fortress 2.
+
+* **AI Image Generator**  
+  Web app using Stable Diffusion API with an “Inspire Me” prompt feature, boosting engagement by ~40%.
+
+* **CV-based Waste Identifier**  
+  CNN/Keras-based system to classify recyclable vs non-recyclable waste.
+
+* **Restaurant Review Analysis**  
+  LLM-powered system achieving ~95% sentiment accuracy to analyze and explain restaurant reviews.
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* **Application of MQTT Protocol to Visualize the Behavior of Autonomous Vehicle in a Virtual Environment**  
+  IEEE, Dec 2025.  
+  Presented at ICIDCA 2025 (Coimbatore) and NCCT 2025 (Bangalore).
+
+Achievements
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* LeetCode Rating: **2189** (Guardian)  
+* Codeforces Rating: **1710** (Expert)  
+* Kaggle: **3× Expert** (Notebooks, Datasets, Discussions)  
+* GATE 2025: **AIR 18,757** / 170k (Score: 368)
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Active contributor on **Kaggle** datasets, notebooks, and discussions.  
+* Open-source contributions on **GitHub (PhenomSG)**.
