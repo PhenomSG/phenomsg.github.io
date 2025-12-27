@@ -4,7 +4,7 @@ site_theme               : "default"
 title                    : "Sahaj Gupta"
 title_separator          : "-"
 name                     : &name "Sahaj Gupta"
-description              : &description "Academic & AI/ML portfolio of Sahaj Gupta"
+description              : &description "Portfolio of Sahaj Gupta"
 url                      : https://phenomsg.github.io
 baseurl                  : ""
 repository               : "phenomsg/phenomsg.github.io"
