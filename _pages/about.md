@@ -13,7 +13,7 @@ I qualified GATE 2025, an experience that further motivated me to pursue graduat
 
 Research Interests
 ======
-- Human–AI Interaction and Explainability  
+- Human-AI Interaction and Explainability  
 - Large Language Models and Agentic AI  
 - Natural Language Processing and Retrieval-Augmented Generation  
 - Applied Machine Learning and Deep Learning Systems  
@@ -21,7 +21,7 @@ Research Interests
 Academic and Professional Highlights
 ======
 - **Student Intern, Central AI Team — Nokia (Oct 2025 – Present)**  
-  Working on Agentic AI systems, LangChain-based orchestration, and scalable GenAI solutions.
+  Part of the Central AI team, working on Agentic AI, LangChain Framework, and Generative AI to build scalable AI-driven products for Nokia.
 
 - **Project Intern — Nokia (Apr 2025 – Sep 2025)**  
   Developed an Industrial OT text corpus for LLM fine-tuning across networks, manufacturing, logistics, and mining domains.
